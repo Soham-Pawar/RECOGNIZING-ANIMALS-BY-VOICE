@@ -1,0 +1,41 @@
+body{
+    font-family: 'Noto Serif', serif;
+    background-image: linear-gradient(to right, Yellow 0%,Pink 50%, Aqua 100%);
+    }
+    
+    .header_div{
+    background-color: #E2E8DD;
+    color: Red;
+    font-size: 28px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    
+    .header_div p{
+    color: black;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 12px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    }
+    
+    .main_div button{
+    font-family: 'Bebas Neue', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bold;
+    letter-spacing: 3px;
+    border: black;
+    font-size: 23px;
+    }
+    
+    .copy-right-footer{
+    position: fixed;
+    color:  red;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    background-color: #E2E8DD;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+    }
